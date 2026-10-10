@@ -1,0 +1,6 @@
+name = "privance-landing"
+compatibility_date = "2026-10-10"
+
+[[kv_namespaces]]
+binding = "WAITLIST_KV"
+id = "bc430fe1aec94d93969cc159144ac7c1"
